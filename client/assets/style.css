@@ -1,0 +1,12 @@
+.form {
+    margin: 50px auto;
+    width: 320px;
+    padding: 15px;
+    background: white;
+}
+
+#message {
+    margin: 50px auto;
+    width: 320px !important;
+    padding: 15px;
+}
